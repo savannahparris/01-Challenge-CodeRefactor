@@ -12,4 +12,4 @@ I first started in the HTML file. I added the Horiseon title to the head, create
 
 
 ## Link
-https://github.com/savannahparris/01-Challenge-CodeRefactor
+https://savannahparris.github.io/01-Challenge-CodeRefactor/
